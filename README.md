@@ -6,7 +6,7 @@ A collection of utility scripts for GIMP to enhance your image editing workflow.
 
 ### Add Top Layer to All Layers
 
-Takes the topmost layer of your image and adds it to every other layer below it, merging it down. This is useful for applying a consistent overlay or effect to multiple layers at once.
+Takes the topmost layer of your image and adds it to every other layer below it, merging it down. This is useful for applying a consistent overlay or effect to multiple layers/frames at once.
 
 ## Installation
 
