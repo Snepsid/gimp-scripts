@@ -1,3 +1,9 @@
+; Add Top Layer to All Layers Script for GIMP
+; Author: Snepsid
+; Version: 1.0.0
+; Description: Adds the top layer to all other layers in the image
+; License: CC0 1.0 Universal
+
 (define (add-top-layer-to-all-layers image)
   (let* ((layers (gimp-image-get-layers image))
          (top-layer (aref (cadr layers) 0)))
